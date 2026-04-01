@@ -5,12 +5,67 @@
     <link>https://madina-dzhuraboeva.github.io/ru/publications/</link>
       <atom:link href="https://madina-dzhuraboeva.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://madina-dzhuraboeva.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://madina-dzhuraboeva.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Оформление отчёта</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/publications/03/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://madina-dzhuraboeva.github.io/ru/publications/03/</guid>
+      <description>&lt;h2 id=&#34;-оформление-отчёта&#34;&gt;📝 Оформление отчёта&lt;/h2&gt;
+&lt;p&gt;На этой неделе особое внимание было уделено оформлению учебных отчётов. Этот процесс требует не только грамотного изложения материала, но и соблюдения определённых стандартов.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Изучил структуру отчёта: титульный лист, содержание, введение, основная часть, заключение и список литературы.&lt;/li&gt;
+&lt;li&gt;✍️ Научился формулировать цели и задачи работы, чтобы текст выглядел логичным и последовательным.&lt;/li&gt;
+&lt;li&gt;📊 Особое внимание уделил оформлению таблиц, графиков и иллюстраций — они должны быть понятными и аккуратно встроенными в текст.&lt;/li&gt;
+&lt;li&gt;📚 Разобрался с правилами оформления источников и ссылок, что важно для любой академической работы.&lt;/li&gt;
+&lt;li&gt;🧾 Практиковался в написании отчётов по лабораторным работам, стараясь соблюдать требования к стилю и структуре.&lt;/li&gt;
+&lt;li&gt;🔍 Проверял работу на ошибки и корректировал оформление, чтобы итоговый документ выглядел профессионально.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Работа над отчётами помогает развивать навыки структурирования информации и чёткого изложения мыслей — это важно не только в учёбе, но и в будущей профессиональной деятельности.&lt;/p&gt;
+&lt;p&gt;А как вы подходите к оформлению своих работ? 📘✨&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/publications/02/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://madina-dzhuraboeva.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-легковесные-языки-разметки&#34;&gt;📝 Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомился с темой &lt;strong&gt;легковесных языков разметки&lt;/strong&gt; — простого и удобного инструмента для структурирования текста.&lt;/p&gt;
+&lt;p&gt;Легковесные языки разметки — это способы оформления текста с помощью минимального набора символов, которые легко читать как в исходном виде, так и после преобразования в HTML или другие форматы.&lt;/p&gt;
+&lt;h3 id=&#34;-основные-особенности&#34;&gt;🔍 Основные особенности&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✏️ &lt;strong&gt;Простота синтаксиса&lt;/strong&gt; — не требуется сложных тегов, как в HTML&lt;/li&gt;
+&lt;li&gt;👀 &lt;strong&gt;Читаемость&lt;/strong&gt; — текст остаётся понятным даже без обработки&lt;/li&gt;
+&lt;li&gt;🔄 &lt;strong&gt;Лёгкое преобразование&lt;/strong&gt; — можно быстро конвертировать в HTML, PDF и другие форматы&lt;/li&gt;
+&lt;li&gt;⚡ &lt;strong&gt;Скорость работы&lt;/strong&gt; — удобно писать заметки, документацию и статьи&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-популярные-языки&#34;&gt;💡 Популярные языки&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 &lt;strong&gt;Markdown&lt;/strong&gt; — самый распространённый язык, используется в документации, GitHub и блогах&lt;/li&gt;
+&lt;li&gt;📘 &lt;strong&gt;reStructuredText&lt;/strong&gt; — часто применяется в технической документации (например, в Python-проектах)&lt;/li&gt;
+&lt;li&gt;📝 &lt;strong&gt;Asciidoc&lt;/strong&gt; — более расширенный вариант с дополнительными возможностями&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-где-используются&#34;&gt;🛠 Где используются&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;📚 Документация проектов&lt;/li&gt;
+&lt;li&gt;💻 README-файлы в репозиториях&lt;/li&gt;
+&lt;li&gt;🌐 Блоги и статические сайты&lt;/li&gt;
+&lt;li&gt;🗒 Личные заметки и конспекты&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-почему-это-важно&#34;&gt;🚀 Почему это важно&lt;/h3&gt;
+&lt;p&gt;Изучение легковесных языков разметки помогает быстрее оформлять информацию, делать её структурированной и удобной для восприятия. Это особенно полезно для разработчиков, студентов и всех, кто работает с текстом и документацией.&lt;/p&gt;
+&lt;p&gt;Такие инструменты экономят время и позволяют сосредоточиться на содержании, а не на сложной разметке.&lt;/p&gt;
+&lt;p&gt;А вы уже используете Markdown или другие языки разметки? 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Что такое GitHub</title>
