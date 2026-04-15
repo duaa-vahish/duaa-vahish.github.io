@@ -169,6 +169,96 @@
     </item>
     
     <item>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/projects/hugo/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://madina-dzhuraboeva.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;Современному исследователю важно не только проводить научную работу, но и эффективно представлять её результаты. Персональный сайт становится удобным инструментом для публикации статей, проектов и достижений.&lt;/p&gt;
+&lt;p&gt;Платформа &lt;strong&gt;Hugo Academic&lt;/strong&gt; (также известная как Wowchemy) позволяет быстро создать профессиональный сайт без глубоких знаний веб-разработки.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ &amp;ndash;Hugo&amp;ndash; — это генератор статических сайтов, который обеспечивает высокую скорость загрузки и простоту развертывания.&lt;/li&gt;
+&lt;li&gt;🎓 &amp;ndash;Academic (Wowchemy)&amp;ndash; предоставляет готовые шаблоны специально для учёных, преподавателей и студентов.&lt;/li&gt;
+&lt;li&gt;🧩 Сайт легко настраивается с помощью конфигурационных файлов и Markdown-разметки.&lt;/li&gt;
+&lt;li&gt;📄 Можно удобно размещать публикации, резюме, проекты и учебные материалы.&lt;/li&gt;
+&lt;li&gt;🔗 Поддерживается интеграция с GitHub, Google Scholar и другими научными сервисами.&lt;/li&gt;
+&lt;li&gt;📱 Адаптивный дизайн позволяет сайту корректно отображаться на любых устройствах.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Создание сайта обычно включает несколько шагов:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Установка Hugo&lt;/li&gt;
+&lt;li&gt;Выбор и настройка темы Academic&lt;/li&gt;
+&lt;li&gt;Редактирование контента через Markdown&lt;/li&gt;
+&lt;li&gt;Публикация сайта (например, через GitHub Pages)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Такой сайт помогает сформировать профессиональное онлайн-присутствие, упростить доступ к научным результатам и повысить видимость исследовательской деятельности.&lt;/p&gt;
+&lt;p&gt;Использование Hugo Academic показывает, как современные инструменты позволяют учёным сосредоточиться на содержании, не тратя много времени на технические детали.&lt;/p&gt;
+&lt;p&gt;А есть ли у вас собственный научный сайт? 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/publications/04/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://madina-dzhuraboeva.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🔬 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Научное программирование играет ключевую роль в анализе данных, моделировании процессов и проведении исследований. Выбор языка зависит от задач, производительности и удобства разработки.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &amp;ndash;Python&amp;ndash; является одним из самых популярных языков благодаря своей простоте и огромному количеству библиотек, таких как NumPy, SciPy и Pandas. Он широко используется в анализе данных, машинном обучении и научных исследованиях.&lt;/li&gt;
+&lt;li&gt;📊 &amp;ndash;R&amp;ndash; ориентирован на статистику и визуализацию данных. Его часто применяют в научных публикациях и аналитике благодаря мощным инструментам для работы с данными.&lt;/li&gt;
+&lt;li&gt;⚙️ &amp;ndash;MATLAB&amp;ndash; используется для численных вычислений, моделирования и инженерных задач. Особенно популярен в университетской среде и прикладной науке.&lt;/li&gt;
+&lt;li&gt;🧮 &amp;ndash;Julia&amp;ndash; — современный язык, разработанный специально для высокопроизводительных вычислений. Он сочетает простоту синтаксиса с высокой скоростью выполнения.&lt;/li&gt;
+&lt;li&gt;💻 &amp;ndash;C/C++&amp;ndash; применяются там, где важна максимальная производительность, например, при разработке вычислительных библиотек и симуляций.&lt;/li&gt;
+&lt;li&gt;🌐 &amp;ndash;Fortran&amp;ndash; остаётся востребованным в научных расчётах благодаря своей эффективности в работе с численными методами.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждый из этих языков имеет свои преимущества, и на практике часто используется их комбинация. Например, Python может выступать как основной инструмент, а C++ — для ускорения критически важных частей программы.&lt;/p&gt;
+&lt;p&gt;Освоение нескольких языков научного программирования расширяет возможности исследователя и позволяет выбирать наиболее подходящий инструмент для каждой конкретной задачи.&lt;/p&gt;
+&lt;p&gt;А какой язык используете вы в своих проектах? 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/blog/04/</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://madina-dzhuraboeva.github.io/ru/blog/04/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя оказалась насыщенной и позволила продвинуться вперёд в освоении ключевых дисциплин. Постепенно становится легче связывать теорию с практикой и видеть общую картину изучаемых тем.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &amp;ndash;программированию&amp;ndash; продолжил развивать навыки написания кода, уделяя больше внимания структуре и читаемости решений.&lt;/li&gt;
+&lt;li&gt;🧠 В курсе по &amp;ndash;алгоритмам и структурам данных&amp;ndash; сосредоточился на анализе сложности алгоритмов и начал лучше понимать, как оптимизировать программы.&lt;/li&gt;
+&lt;li&gt;🗄️ На занятиях по &amp;ndash;базам данных&amp;ndash; практиковался в создании сложных запросов и работе с различными типами данных.&lt;/li&gt;
+&lt;li&gt;🤖 В рамках изучения &amp;ndash;искусственного интеллекта&amp;ndash; познакомился с базовыми принципами обучения моделей и их применением.&lt;/li&gt;
+&lt;li&gt;📚 Активно выполнял лабораторные работы, стараясь не только завершить задания, но и глубже разобраться в теме.&lt;/li&gt;
+&lt;li&gt;🌿 Старался поддерживать баланс между учёбой и отдыхом, чтобы сохранять концентрацию и продуктивность.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Эта неделя ещё раз показала, что регулярная практика и внимательное отношение к деталям помогают быстрее двигаться вперёд и чувствовать уверенность в своих знаниях.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://madina-dzhuraboeva.github.io/ru/blog/03/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://madina-dzhuraboeva.github.io/ru/blog/03/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя прошла продуктивно и принесла новые знания, а также позволила закрепить уже изученный материал на практике. Постепенно появляется больше уверенности в решении сложных задач.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &amp;ndash;программированию&amp;ndash; сосредоточился на отработке логики решений и стал увереннее применять различные конструкции и подходы.&lt;/li&gt;
+&lt;li&gt;🧠 В курсе по &amp;ndash;алгоритмам и структурам данных&amp;ndash; продолжил разбирать методы оптимизации и лучше понял, как выбирать наиболее эффективные решения.&lt;/li&gt;
+&lt;li&gt;🗄️ На занятиях по &amp;ndash;базам данных&amp;ndash; углубился в написание более сложных запросов и начал лучше ориентироваться в работе с данными.&lt;/li&gt;
+&lt;li&gt;🤖 В рамках изучения &amp;ndash;искусственного интеллекта&amp;ndash; познакомился с новыми примерами применения и начал понимать, как строятся простые модели.&lt;/li&gt;
+&lt;li&gt;📚 Выполнял лабораторные и практические задания, уделяя внимание аккуратности и качеству выполнения.&lt;/li&gt;
+&lt;li&gt;🌿 Старался соблюдать баланс между учёбой и отдыхом, чтобы поддерживать стабильную продуктивность.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Неделя показала, что систематическая работа даёт результат: становится проще разбираться в сложных темах и применять знания на практике.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Оформление отчёта</title>
       <link>https://madina-dzhuraboeva.github.io/ru/publications/03/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
@@ -750,30 +840,6 @@ Thank you for your attention! Feel free to reach out with questions or contribut
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>https://madina-dzhuraboeva.github.io/ru/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://madina-dzhuraboeva.github.io/ru/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://madina-dzhuraboeva.github.io/ru/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://madina-dzhuraboeva.github.io/ru/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://madina-dzhuraboeva.github.io/ru/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://madina-dzhuraboeva.github.io/ru/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1950,45 +2016,6 @@ Navigate down for sub-topics!&lt;/p&gt;
 !&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Want to contribute?&lt;/strong&gt; Hugo Blox is open source! 
 .&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://madina-dzhuraboeva.github.io/ru/blog/03/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://madina-dzhuraboeva.github.io/ru/blog/03/</guid>
-      <description>&lt;p&gt;Вот пост по тому же примеру с датой через неделю:&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;title: Моя учебная неделя
-summary: Итоги недели студента направления «Компьютерные науки»
-date: 2026-04-01&lt;/p&gt;
-&lt;p&gt;image:
-caption: &amp;lsquo;Image credit: 
-&amp;rsquo;&lt;/p&gt;
-&lt;p&gt;authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;admin&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Academic&lt;/li&gt;
-&lt;li&gt;Student Life&lt;/li&gt;
-&lt;li&gt;Computer Science&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
-&lt;p&gt;Эта неделя прошла продуктивно и принесла новые знания, а также позволила закрепить уже изученный материал на практике. Постепенно появляется больше уверенности в решении сложных задач.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;💻 На занятиях по &amp;ndash;программированию&amp;ndash; сосредоточился на отработке логики решений и стал увереннее применять различные конструкции и подходы.&lt;/li&gt;
-&lt;li&gt;🧠 В курсе по &amp;ndash;алгоритмам и структурам данных&amp;ndash; продолжил разбирать методы оптимизации и лучше понял, как выбирать наиболее эффективные решения.&lt;/li&gt;
-&lt;li&gt;🗄️ На занятиях по &amp;ndash;базам данных&amp;ndash; углубился в написание более сложных запросов и начал лучше ориентироваться в работе с данными.&lt;/li&gt;
-&lt;li&gt;🤖 В рамках изучения &amp;ndash;искусственного интеллекта&amp;ndash; познакомился с новыми примерами применения и начал понимать, как строятся простые модели.&lt;/li&gt;
-&lt;li&gt;📚 Выполнял лабораторные и практические задания, уделяя внимание аккуратности и качеству выполнения.&lt;/li&gt;
-&lt;li&gt;🌿 Старался соблюдать баланс между учёбой и отдыхом, чтобы поддерживать стабильную продуктивность.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Неделя показала, что систематическая работа даёт результат: становится проще разбираться в сложных темах и применять знания на практике.&lt;/p&gt;
-&lt;p&gt;А как прошла ваша неделя? 🚀&lt;/p&gt;
 </description>
     </item>
     
